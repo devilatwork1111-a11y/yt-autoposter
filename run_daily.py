@@ -32,7 +32,7 @@ TOPICS = [
 PRIVACY = "private"        # YouTube upload only. Use "public" once you trust the output.
 CATEGORY_ID = "27"         # YouTube category, 27 = Education
 VOICE = "en-US-AriaNeural-Female"
-DEFAULT_GEMINI_MODEL = "gemini-3.5-flash-lite"   # override with a GEMINI_MODEL secret/env
+DEFAULT_GEMINI_MODEL = "gemini-2.0-flash"   # override with a GEMINI_MODEL secret/env
 # -----------------------------------------------------------------------------
 
 
